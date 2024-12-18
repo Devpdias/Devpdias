@@ -16,4 +16,4 @@
 <div>
 <br>
 
-Sou estudante de Tecnologia da Informação na UFMS, com grande interesse por informática e programação. Tenho uma verdadeira paixão por resolver problemas, o que me motiva a explorar constantemente novas soluções e desafios no mundo da tecnologia.
+
