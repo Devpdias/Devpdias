@@ -14,7 +14,6 @@
   <img aling="center" alt= "react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img aling="center" alt= "nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <div>
-
-
+<br>
 
 Sou estudante de Tecnologia da Informação na UFMS, com grande interesse por informática e programação. Tenho uma verdadeira paixão por resolver problemas, o que me motiva a explorar constantemente novas soluções e desafios no mundo da tecnologia.
